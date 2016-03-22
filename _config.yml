@@ -1,7 +1,7 @@
 name: vf
 favicon: null
-layout_spectrum: 0.15160485357046127
-typography_spectrum: 0.40914142318069935
+layout_spectrum: 1
+typography_spectrum: 0.70112
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#910745'
+    - '#ffffff'
+    - '#fd7e23'
+    - '#eab0ad'
+    - '#ed2e29'
   brandStrength: 0.7261278876103461
-  lightness: 0.056064043659716845
+  lightness: 0.875
   saturation: 0.9758422719314694
-  rhythmicContrast: 0.23172423150390387
+  rhythmicContrast: 1
 purpose: []
