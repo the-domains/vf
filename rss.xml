@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[vf]]></title>
         <description><![CDATA[vf]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 03:37:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 03:44:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life Is A Choice]]></title>
+            <description><![CDATA[<article><h1>Life Is A Choice</h1><p>For those of you that follow me on any social media at all, you may have noticed that I've been road tripping across America with my best friend which has been super fucking awesome. If you've never done it, you need to. It's such a cool experience and I've met so many dope ass people it's unreal.</p><img src="https://cdn-images-1.medium.com/max/800/1*n74Yz-TGHfJVXIwDIiO8Sw.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/vf/life-is-a-choice/index.html</link>
+            <guid isPermaLink="false">b26bb9be-0cd0-496c-ae98-21211f1c9696</guid>
+            <pubDate>Tue, 22 Mar 2016 03:43:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vance Fite - Abigail (Official Music Video)]]></title>
-            <description><![CDATA[<article><h1>Vance Fite - Abigail (Official Music Video)</h1><p>Official video for ABIGAIL! Abigail is out now!</p></article>]]></description>
+            <description><![CDATA[<article><h1>Vance Fite - Abigail (Official Music Video)</h1><p>Official video for ABIGAIL! Abigail is out now!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34de8259a8259859eae7241b5eb599138e9a6f84.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=AO0W-M-kg4o</link>
             <guid isPermaLink="false">e0dd055e-0823-4692-bf0c-04ad84995b06</guid>
             <pubDate>Tue, 22 Mar 2016 03:35:32 GMT</pubDate>
